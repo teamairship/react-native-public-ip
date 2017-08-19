@@ -1,0 +1,20 @@
+{
+  "name": "react-native-ipify",
+  "version": "1.0.0",
+  "description": "Get public IP address in React Native",
+  "main": "index.js",
+  "keywords": ["ip", "ipv4", "ipv6", "address", "public", "external", "own"],
+  "peerDependencies": {
+    "react-native": ">=0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamairship/react-native-ipify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teamairship/react-native-ipify/issues"
+  },
+  "author": "Alex Hinson <alex@teamairship.com>",
+  "homepage": "https://github.com/teamairship/react-native-ipify",
+  "license": "MIT"
+}
