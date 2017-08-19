@@ -1,4 +1,4 @@
-# react-native-ipify
+# react-native-public-ip
 
 > Get public IP address in React Native
 
@@ -8,16 +8,16 @@ Using the [`ipify` API](https://www.ipify.org)
 ## Install
 
 ```
-$ npm install --save react-native-ipify
+$ npm install --save react-native-public-ip
 ```
 
 
 ## Usage
 
 ```js
-import ipify from 'react-native-ipify';
+import publicIP from 'react-native-public-ip';
 
-ipify().then(ip => {
+publicIP().then(ip => {
 	console.log(ip);
 	//=> '47.122.71.234'
 });
@@ -26,7 +26,7 @@ ipify().then(ip => {
 
 ## API
 
-### ipify()
+### publicIP()
 
 Returns a `Promise` for the IP address.
 
