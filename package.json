@@ -1,9 +1,17 @@
 {
   "name": "react-native-public-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get public IP address in React Native",
   "main": "index.js",
-  "keywords": ["ip", "ipv4", "ipv6", "address", "public", "external", "own"],
+  "keywords": [
+    "ip",
+    "ipv4",
+    "ipv6",
+    "address",
+    "public",
+    "external",
+    "own"
+  ],
   "peerDependencies": {
     "react-native": ">=0.18.0"
   },
