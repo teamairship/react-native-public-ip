@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Get public IP address in React Native",
   "main": "index.js",
+  "types": "index.d.ts",
   "keywords": [
     "ip",
     "ipv4",

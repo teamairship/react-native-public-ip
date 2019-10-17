@@ -1,0 +1,1 @@
+export declare async function endpoint(): string;
