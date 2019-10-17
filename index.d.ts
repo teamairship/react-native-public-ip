@@ -1,1 +1,3 @@
-export declare async function endpoint(): string;
+export = GetIp
+
+declare function GetIp(endpoint?: string) : Promise<string>;
